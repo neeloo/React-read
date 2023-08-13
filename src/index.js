@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-//import Timer from './Timer';
-import Counter from './Counter';
+//import Timer from './React Hook/Timer';
+import Counter from './React Hook/Counter';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
