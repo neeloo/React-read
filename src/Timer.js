@@ -1,3 +1,4 @@
+//use of  useState ans usEffect
 import { useState, useEffect } from "react";
 
 function Timer() {
