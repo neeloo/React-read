@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div >
-     <h1>hellow react</h1>
+     
       
     </div>
   );
