@@ -1,10 +1,10 @@
-import './App.css';
+import './App.css'
 
 function App() {
   return (
-    <div >
+    <div className="App">
+    <h1>hellow react </h1>
      
-      
     </div>
   );
 }
